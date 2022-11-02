@@ -5,7 +5,7 @@
 - ✍️ &nbsp; Student at Ha Long High School for Gifted Students (2017 - 2020) - Chemistry Major.
 - 💼 &nbsp; Computer Science student at SOICT - Hanoi University of Science and Technology.
 - 🌱 &nbsp; Learning more about Algorithms, Machine Learning and Artificial Intelligence.
-
+- 📚 &nbsp; Check my solved solutions in Codeforces [here](https://codeforces.com/profile/thanhbl-hust)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
