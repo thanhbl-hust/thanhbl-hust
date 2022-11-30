@@ -38,7 +38,7 @@
 <p align="center">
 
 <a href="https://www.facebook.com/lamthanh2k/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Bùi%20Lâm%20Thanh-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/thanh4cham/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thanh4cham-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/thanhbl.io/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thanhbl.io-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:lamthanhbui02@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lamthanhbui02@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
